@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Renomear o pacote &apos;controle&apos; para &apos;controller&apos;&#x0D;&#x0A;- Original project: &apos;Portifolio&apos;&#x0D;&#x0A;- Elemento original: &apos;Portifolio/src/main/java/controle&apos;&#x0D;&#x0A;- Elemento renomeado: &apos;Portifolio/src/main/java/controller&apos;&#x0D;&#x0A;- Atualizar referências para elemento recriado&#x0D;&#x0A;- Atualizar ocorrências textuais em comentários e cadeias" description="Renomear pacote &apos;controle&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;controle" name="controller" qualified="false" references="true" stamp="1794914104242" textual="false" version="1.0"/>
+</session>
